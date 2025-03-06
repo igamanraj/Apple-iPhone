@@ -20,3 +20,17 @@ timeline.to(secondTarget, {
 },'<'
 ) 
 }
+
+export const animateWithGsap = (target, animationProps, scrollProps) => {
+        gsap.to(target,{
+            opacity : 1,
+            ...animationProps,
+            scrollTrigger : {
+                trigger : target,
+                start : 'top 80%',
+                end : 'bottom 20%',
+                toggleActions : 'restart reverse resart reverse',
+                ...scrollProps
+            }
+        })
+}

@@ -3,7 +3,7 @@
 A sleek and interactive website showcasing the iPhone 15 Pro, built with **React + Vite**, **GSAP** for animations, and **Three.js** for stunning 3D models.
 
 ## 🚀 Demo
-[Live Demo](#) — *Add your deployed link here!*
+**🚀🚀** [Live Demo](https://apple-i-phone-rho.vercel.app/)
 
 ---
 
@@ -31,4 +31,9 @@ A sleek and interactive website showcasing the iPhone 15 Pro, built with **React
     ```bash
     npm run dev
 ## 📧 Contact
-For any inquiries, feel free to reach out via [email](amanra812727@gmail.com).
+For any inquiries, feel free to reach out via # 📧 Contact Me [![Email Me (Blue)](https://img.shields.io/badge/Email%20Me-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+ 
+
+
+

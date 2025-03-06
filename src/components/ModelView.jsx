@@ -28,7 +28,7 @@ const ModelView = ({
       <ambientLight intensity={0.3} />
       <PerspectiveCamera makeDefault position={[0, 0, 4]} />
       <Lights />
-      <OrbitControls makeDefault ref={controlRef} enableZoom={false} enablePan={false} rotateSpeed={0.4}
+      <OrbitControls makeDefault ref={controlRef} enableZoom={false} enablePan={false} rotateSpeed={1}
       target0={new THREE.Vector3(0, 0, 0)}
       onEnd={() => setRotationState(controlRef.current.getAzimuthalAngle())}
       />
