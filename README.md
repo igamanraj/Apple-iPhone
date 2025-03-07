@@ -32,8 +32,3 @@ A sleek and interactive website showcasing the iPhone 15 Pro, built with **React
     npm run dev
 ## 📧 Contact
 For any inquiries, feel free to reach out via # 📧 Contact Me [![Email Me (Blue)](https://img.shields.io/badge/Email%20Me-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
- 
-
-
-
